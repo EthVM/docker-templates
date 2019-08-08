@@ -175,7 +175,7 @@ Many thanks to jwilder and [Aisbergg](https://github.com/Aisbergg) for creating 
 
 ## License
 
-docker-templates_ is released under the MIT License. See [LICENSE.txt](LICENSE.txt) for more information.
+*docker-templates* is released under the MIT License. See [LICENSE.txt](LICENSE.txt) for more information.
 
 [go.string.Split]: https://golang.org/pkg/strings/#Split
 [go.string.Replace]: https://golang.org/pkg/strings/#Replace
